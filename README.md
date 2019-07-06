@@ -1,5 +1,2 @@
 # Library
-書籍管理Webアプリのプロトタイプ
-ローカルにインストールされたSQL Serverとの連携を前提とする。
-
-APS.NETの練習なので、大した機能は入れない。
+Practice of APS.NET with SQL Server.
